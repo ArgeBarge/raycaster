@@ -1,0 +1,1 @@
+* glut must be installed separately
